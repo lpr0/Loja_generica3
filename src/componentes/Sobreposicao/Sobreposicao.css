@@ -1,0 +1,6 @@
+.sobreposicao {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.626);
+}

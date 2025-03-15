@@ -1,0 +1,19 @@
+form {
+    background-color: rgb(196, 196, 196);
+    padding: 20px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(44, 44, 44);
+    max-width: 800px;
+    box-sizing: border-box;
+    margin: 50px auto;
+}
+
+form > button {
+    font-size: 21px;
+    color: black;
+    padding: 5px 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}

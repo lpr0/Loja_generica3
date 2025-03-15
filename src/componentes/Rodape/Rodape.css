@@ -1,0 +1,16 @@
+footer {
+    color: white;
+    background-color: black;
+    position:static;
+    margin-top: 50px;
+    bottom: 0;
+    height: fit-content;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+}
+
+footer > div {
+    margin: 0 auto;
+}

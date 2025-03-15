@@ -1,0 +1,12 @@
+.secoes {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 20px 0 30px 0;
+    text-align: left;
+}
+
+.secoes > h3 {
+    font-size: 23px;
+    padding: 10px 0 10px 50px;
+    background-color: antiquewhite;
+}
